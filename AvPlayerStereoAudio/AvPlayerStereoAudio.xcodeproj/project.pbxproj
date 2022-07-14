@@ -17,6 +17,7 @@
 		2C44933F283C82EF00032C3B /* AvPlayerStereoAudioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C44933E283C82EF00032C3B /* AvPlayerStereoAudioTests.swift */; };
 		2C449349283C82EF00032C3B /* AvPlayerStereoAudioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C449348283C82EF00032C3B /* AvPlayerStereoAudioUITests.swift */; };
 		2C44934B283C82EF00032C3B /* AvPlayerStereoAudioUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C44934A283C82EF00032C3B /* AvPlayerStereoAudioUITestsLaunchTests.swift */; };
+		2C449358283C97B200032C3B /* AVPlayerItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C449357283C97B200032C3B /* AVPlayerItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2C449344283C82EF00032C3B /* AvPlayerStereoAudioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AvPlayerStereoAudioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C449348283C82EF00032C3B /* AvPlayerStereoAudioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvPlayerStereoAudioUITests.swift; sourceTree = "<group>"; };
 		2C44934A283C82EF00032C3B /* AvPlayerStereoAudioUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvPlayerStereoAudioUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2C449357283C97B200032C3B /* AVPlayerItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVPlayerItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				2C449332283C82EF00032C3B /* LaunchScreen.storyboard */,
 				2C449335283C82EF00032C3B /* Info.plist */,
 				2C44932D283C82ED00032C3B /* AvPlayerStereoAudio.xcdatamodeld */,
+				2C449357283C97B200032C3B /* AVPlayerItem.swift */,
 			);
 			path = AvPlayerStereoAudio;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			files = (
 				2C44932F283C82ED00032C3B /* AvPlayerStereoAudio.xcdatamodeld in Sources */,
 				2C449329283C82ED00032C3B /* ViewController.swift in Sources */,
+				2C449358283C97B200032C3B /* AVPlayerItem.swift in Sources */,
 				2C449325283C82ED00032C3B /* AppDelegate.swift in Sources */,
 				2C449327283C82ED00032C3B /* SceneDelegate.swift in Sources */,
 			);
